@@ -23,7 +23,7 @@ Work in your group to implement the following user stories:
 
 <!-- * It's done when the page uses semantic HTML elements. -->
 
-* It's done when the page uses universal, element, and class selectors in CSS.
+<!--* It's done when the page uses universal, element, and class selectors in CSS.-->
 
 * It's done when the page features at least three colors in the design.
 
