@@ -1,3 +1,42 @@
 * {
     font-family: monospace, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+nav {
+    text-align: right;
+    background-color: rgb(11, 71, 11);
+    color: white;
+    line-height: 50px;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    color: grey;
+}
+
+body {
+    background-color: rgb(247, 239, 207);
+}
+
+.form-example {
+    /* padding: 20px auto;
+    margin: 10px auto; */
+    border: 2px orange;
+    border-radius: 1rem;
+}
+
+.sendbtn {
+    height: 75px;
+    width: 150px;
+    color: white;
+    background-color: rgb(39, 33, 33);
+}
+
+#footer {
+    background-color:  rgb(11, 71, 11);
+    color: white;
 }
